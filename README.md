@@ -1,12 +1,10 @@
-# Intellicrew - Intelligent Agent Workflow System
-
 ## Introduction
 
-Intellicrew is a framework for building AI agent teams that collaborate to complete complex tasks. Using specialized agents such as **Researcher** and **Reporting Analyst**, Intellicrew enhances workflow efficiency and delivers comprehensive, actionable results. The system utilizes **Llama 3.2** locally and **Ollama** to power the AI agents' capabilities, enabling seamless communication and task execution.
+Intellicrew is built using the **CrewAI** framework, designed to create AI agent teams that collaborate to tackle complex tasks. By using specialized agents, such as **Researcher** and **Reporting Analyst**, Intellicrew enhances workflow efficiency and delivers comprehensive, actionable results. The system leverages **Llama 3.2** locally and **Ollama** to power the AI agents' capabilities, enabling seamless communication and task execution.
 
 ## Agents in Intellicrew
 
-In Intellicrew, agents are specialized entities that perform distinct tasks autonomously. Each agent is optimized for a particular role within a given workflow, contributing to the overall efficiency of the system. The agents are designed to interact with each other, ensuring that tasks are executed collaboratively.
+In Intellicrew, agents are specialized AI entities designed to autonomously perform distinct tasks. Each agent is optimized for a specific role within the workflow, contributing to the overall efficiency of the system. These agents work collaboratively to execute tasks in an organized manner, ensuring high-quality outcomes.
 
 ### Researcher Agent
 - **Role:** Senior Computer Vision Researcher
