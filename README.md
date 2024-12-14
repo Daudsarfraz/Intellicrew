@@ -71,3 +71,23 @@ The **Researcher Agent** autonomously searches for the latest papers, trends, an
    After installing Ollama, run the model with:  
    ```bash
    ollama run llama3.2
+
+## Demo
+
+Here is a quick demonstration of how Intellicrew works:
+
+### Step 1: Initial Setup
+![Setup](images/v1.png)
+
+### Step 2: Researcher Agent at Work
+![Researcher](images/v2.png)
+
+### Step 3: Reporting Analyst Agent Processing
+![Reporting Analyst](images/v3.png)
+
+### Step 4: Collaboration Between Agents
+![Collaboration](images/v4.png)
+
+### Step 5: Final Report Generation
+![Final Report](images/v5.png)
+
